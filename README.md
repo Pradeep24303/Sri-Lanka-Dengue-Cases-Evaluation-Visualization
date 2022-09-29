@@ -1,0 +1,2 @@
+# Sri-Lanka-Dengue-Cases-Evaluation-Visualization
+This is a exploratory data analysis &amp; visualization project about sri lanka dengue status from 2010 to 2020 &amp; and also include the forecasting of dengue cases for the future 2 years. In here mainly used python, tableau for the data analysis &amp; visualization process and also used fbprophet model as the procedure for forecasting .By this, here we able to get better insights about how dengue outbreak spreaded in sri lanka.
